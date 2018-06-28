@@ -1,0 +1,13 @@
+币种：
+tb_user:
+Emoney          云盾		 
+BonusAccount 	云图		
+注：
+交易平台买家买入：云盾支付，获得云图
+卖家卖出：出售云图，收入云盾
+
+tb_journal:
+JournalType 帐户类型
+1 	云盾
+2 	云图
+
